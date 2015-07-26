@@ -83,7 +83,7 @@ torservers = {
 		'contact': [
 		],
 	},
-	'Torservers.net': {
+	'Zwiebelfreunde e.V.': {
 		'contact': [
 			'Torservers.net <support .AT. torservers .DOT. net>',
 			'"https://www.torservers.net/donate.html <support .AT. torservers .DOT. net>"',
